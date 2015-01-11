@@ -1,0 +1,14 @@
+figure {
+    width: 300px;
+    height:250px;
+    margin:5px;
+    border: 2px solid black;
+    display: inline-block;
+    overflow: hidden;
+}
+figure img {
+    width: 100%;
+}
+.image {
+    opacity: 1;
+}
